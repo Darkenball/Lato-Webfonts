@@ -1,0 +1,18 @@
+# Sublime Text files are user-specific
+*.sublime-workspace
+*.sublime-project
+
+# Node.js Tools
+node_modules/
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk

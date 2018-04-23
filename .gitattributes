@@ -1,0 +1,25 @@
+### Auto Detect - the default behavior
+* text=auto
+### Normalize and convert text files
+*.js              text
+*.json            text
+*.jsx             text
+*.css             text
+*.scss            text
+*.html            text
+*.markdown        text
+*.md              text
+*.txt             text
+LICENSE           text
+*.tpl             text
+.editorconfig     text
+.gitattributes    text
+.gitignore        text
+.baberc           text
+### Don't touch binary files
+*.png             binary
+*.ttf             binary
+*.eot             binary
+*.otf             binary
+*.woff            binary
+*.woff2           binary
