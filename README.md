@@ -60,15 +60,15 @@ Of course, you can use full web font kits.
 
 * Open the command line in the project folder and run:
 
-         npm i -D gulp@next gulp-decompress gulp-sass babel-preset-env babel-register del
+      npm i -D gulp@next gulp-decompress gulp-sass babel-preset-env babel-register del
 
 Of course, you can just run
 
-         npm i
+     npm i
 
 Well, you installed all dependencies. Now you can run in the command line:
 
-          gulp
+     gulp
 
 You get full web font kit in the folder dist/fonts and two completed css styles 
 (minified and non-minified) in the folder dist/css if you want to use font-face method.
