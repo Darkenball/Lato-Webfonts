@@ -1,0 +1,14 @@
+// ----------------------------------------------------------------------------------------------------
+// ------ Mixins
+// ----------------------------------------------------------------------------------------------------
+@mixin font-face($font-style, $font-weight) {
+        font-family: $font-family;
+        src: url('#{$path + $font-family + '/' + $font-family}.eot');
+        src: url('#{$path + $font-family + '/' + $font-family}.eot?#iefix') format('embedded-opentype'),
+        url('#{$path + $font-family + '/' + $font-family}.woff2') format('woff2'),
+        url('#{$path + $font-family + '/' + $font-family}.woff') format('woff'),
+        url('#{$path + $font-family + '/' + $font-family}.ttf') format('truetype');
+
+        font-style: $font-style;
+        font-weight: $font-weight;
+}
