@@ -7,6 +7,10 @@
 ## Getting Started
 * This project was created for the personal usage but we'll be happy if you'll get it as useful for yours goals. 
 
+## Demo
+
+* You can check the Demo Page on GitHub Pages: [Demo Page](https://bofino.github.io/Lato-Webfonts/demo/)
+
 ## Description
 
 The last web font kits for the Lato family was updated to version 2.015.
