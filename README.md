@@ -5,17 +5,21 @@
 ![Lato Fonts](docs/lato.png)
 
 ## Getting Started
-* This project was created for the personal usage but we'll be happy if you'll get it as useful for yours goals. 
+* This project was created for the personal usage but we'll be happy if you'll get it as useful for yours goals.
+
+## Demo
+
+* You can check the Demo Page on GitHub Pages: [Demo Page](https://bofino.github.io/Lato-Webfonts/demo/)
 
 ## Description
 
 The last web font kits for the Lato family was updated to version 2.015.
-These fonts come in two flavors:   
+These fonts come in two flavors:
 
 * Lato with full character set
 * LatoLatin with just the Latin characters
 
-The web font kits include WOFF2, WOFF, EOT and TTF. 
+The web font kits include WOFF2, WOFF, EOT and TTF.
 
 We exclude SVG as a deprecated feature with support being removed from browsers.
 
@@ -62,7 +66,7 @@ Well, you installed all dependencies. Now you can run in the command line:
 
           gulp
 
-You get full web font kit in the folder dist/fonts and two completed css styles 
+You get full web font kit in the folder dist/fonts and two completed css styles
 (minified and non-minified) in the folder dist/css if you want to use font-face method.
 Also, you've two Map files for both css in the folder dist/css/maps
 
