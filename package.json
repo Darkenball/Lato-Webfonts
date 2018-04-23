@@ -13,7 +13,6 @@
    "homepage": "https://github.com/Bofino/Lato-Webfonts",
    "author": "Bofino (https://github.com/Bofino)",
    "scripts": {
-      "install": "npm install",
       "build": "gulp"
    },
    "main": "gulpfile.babel.js",
