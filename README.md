@@ -54,7 +54,7 @@ Of course, you can use full web font kits.
 
 * Fonts: dist/fonts
 
-* Font-face stylesheets: uncompressed file dist/fonts.css or minified file dist/fonts.min.css
+* Font-face stylesheets: uncompressed file dist/fonts.css
 
 **So, if you want to create yours personal web font kits -**
 
