@@ -13,14 +13,14 @@
    "homepage": "https://github.com/Bofino/Lato-Webfonts",
    "author": "Bofino (https://github.com/Bofino)",
    "scripts": {
-      "webfonts": "gulp",
-      "demo webfonts": "gulp demofonts"
+      "install": "npm install",
+      "build": "gulp"
    },
    "main": "gulpfile.babel.js",
    "directories": {
       "doc": "docs"
    },
-   "private": true,
+   "private": false,
    "repository": {
       "type": "git",
       "url": "git+https://github.com/Bofino/Lato-Webfonts.git"
